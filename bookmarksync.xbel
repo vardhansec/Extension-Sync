@@ -1,522 +1,546 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :172: for Floccus bookmark sync browser extension -->
+<!--- highestId :180: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
 </folder>
 <folder id="2">
   <title>Bookmarks Bar</title>
-  <folder id="5">
-    <title>Typing</title>
-    <bookmark href="https://www.edclub.com/sportal/program-3/116.play" id="23">
-      <title>edclub</title>
-    </bookmark>
-    <bookmark href="https://monkeytype.com/" id="24">
-      <title>Monkeytype | A minimalistic, customizable typing test</title>
-    </bookmark>
-    <bookmark href="https://www.keybr.com/" id="25">
-      <title>Practice</title>
-    </bookmark>
-    <bookmark href="https://www.typingmaster.com/typing-simulator/" id="26">
-      <title>WPM Typing Speed Simulator: See How Much Time You Can Save</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://openhardwaremonitor.org/downloads/" id="6">
-    <title>OPHardware Monitor</title>
-  </bookmark>
-  <bookmark href="https://omniscient.mn.co/posts/free-videos-resources-how-to-become-unrecognizable-in-6-months" id="7">
-    <title>Omniscient</title>
-  </bookmark>
-  <bookmark href="https://fmhy.net/" id="8">
-    <title>FMHY</title>
-  </bookmark>
-  <folder id="9">
-    <title>Intern</title>
-    <bookmark href="https://www.scholarshipsinindia.com/awards_competitions_in_india.html#gsc.tab=0" id="27">
-      <title>ScholinIndia</title>
-    </bookmark>
-    <bookmark href="https://opportunitycell.com/" id="28">
-      <title>OPPORTUNITY CELL – Where Your Dreams Become Reality</title>
-    </bookmark>
-    <bookmark href="https://news.ycombinator.com/" id="29">
-      <title>Hacker News</title>
-    </bookmark>
-    <bookmark href="https://www.glassdoor.co.in/index.htm?countryRedirect=true" id="30">
-      <title>Glassdoor | Job Search and Career Community</title>
-    </bookmark>
-    <bookmark href="https://scholarshipscorner.website/internships/" id="31">
-      <title>Internships 2026 Archives - Scholarships Corner - Fully Funded Scholarships and Admissions</title>
-    </bookmark>
-    <bookmark href="https://www.buddy4study.com/internship" id="32">
-      <title>Internships 2026 for Students in India | Buddy4Study</title>
-    </bookmark>
-  </folder>
-  <folder id="10">
-    <title>Mails</title>
-    <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="33">
-      <title>Inbox - imailtospeaker@gmail.com - Gmail</title>
-    </bookmark>
-    <bookmark href="https://mail.google.com/mail/u/3/#inbox" id="34">
-      <title>Inbox - vardhanlog@gmail.com - Gmail</title>
-    </bookmark>
-    <bookmark href="https://mail.google.com/mail/u/4/?ogbl#inbox" id="35">
-      <title>Inbox - vardhanbhardvaj@gmail.com - Gmail</title>
-    </bookmark>
-    <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="36">
-      <title>Inbox - reach2techist@gmail.com - Gmail</title>
-    </bookmark>
-    <bookmark href="https://outlook.live.com/" id="37">
-      <title>Outlook</title>
-    </bookmark>
-    <bookmark href="https://mail.zoho.in/" id="38">
-      <title>Zoho Mail </title>
-    </bookmark>
-    <bookmark href="https://www.icloud.com/mail/" id="39">
-      <title>iCloud Mail</title>
-    </bookmark>
-    <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="40">
-      <title>Inbox - pandeyharshvardhan4@gmail.com - Gmail</title>
-    </bookmark>
-  </folder>
-  <folder id="11">
-    <title>Hackathons</title>
-    <bookmark href="https://mlh.io/" id="41">
-      <title>Major League Hacking</title>
-    </bookmark>
-    <bookmark href="https://hackthisfall.tech/" id="42">
-      <title>Hack This Fall Community</title>
-    </bookmark>
-    <bookmark href="https://devfolio.co/discover" id="43">
-      <title>Discover | Devfolio</title>
-    </bookmark>
-    <bookmark href="https://www.wemakedevs.org/" id="44">
-      <title>WeMakeDevs</title>
-    </bookmark>
-    <bookmark href="https://devpost.com/hackathons" id="45">
-      <title>New &amp; upcoming hackathons · Devpost</title>
-    </bookmark>
-    <bookmark href="https://angelhack.com/services/hackathon/" id="46">
-      <title>Hackathon Agency | Organize Virtual &amp; In-Person Hackathons | AngelHack</title>
-    </bookmark>
-    <bookmark href="https://www.hackerearth.com/challenges/hackathon/" id="47">
-      <title>Participate in Hackathons, bring change and even solve business challenges with your code | HackerEarth</title>
-    </bookmark>
-    <bookmark href="https://unstop.com/hackathons?oppstatus=open" id="48">
-      <title>2540 Hackathons - Explore Key Challenges</title>
-    </bookmark>
-    <bookmark href="https://www.hackjunction.com/" id="49">
-      <title>Junction - World-Class Hackathons</title>
-    </bookmark>
-    <bookmark href="https://pennapps.com/#tracks" id="50">
-      <title>PennApps XXVI</title>
-    </bookmark>
-    <bookmark href="https://hackmit.org/" id="124">
-      <title>HackMIT 2026</title>
-    </bookmark>
-    <bookmark href="https://www.sih.gov.in/sih2025PS" id="125">
-      <title>Smart India Hackathon</title>
-    </bookmark>
-    <bookmark href="https://www.treehacks.com/" id="126">
-      <title>TreeHacks 2026</title>
-    </bookmark>
-    <bookmark href="https://www.calhacks.io/" id="127">
-      <title>Cal Hacks 12.0</title>
-    </bookmark>
-    <bookmark href="https://hackthenorth.com/" id="128">
-      <title>Hack the North</title>
-    </bookmark>
-    <bookmark href="https://hackathon.iiitkalyani.ac.in/" id="129">
-      <title>Status Code 2</title>
-    </bookmark>
-    <bookmark href="https://dev.events/" id="130">
-      <title>Developer conferences 2026 / 2027</title>
-    </bookmark>
-    <bookmark href="https://calcuttahacks.xyz/" id="131">
-      <title>Calcutta &lt;Hacks/&gt; - 24 Hours Hackathon</title>
-    </bookmark>
-  </folder>
-  <folder id="12">
-    <title>ICourses</title>
-    <bookmark href="https://onlinecourses.nptel.ac.in/noc23_cs44/preview" id="51">
-      <title>Ethical Hacking - Course</title>
-    </bookmark>
-    <bookmark href="https://onlinecourses.nptel.ac.in/noc25_ee54/preview" id="52">
-      <title>Network Security - Course</title>
-    </bookmark>
-    <bookmark href="https://www.edx.org/" id="53">
-      <title>Build new skills. Advance your career. | edX</title>
-    </bookmark>
-    <bookmark href="https://explorecourses.stanford.edu/browse" id="54">
-      <title>Stanford University Explore Courses</title>
-    </bookmark>
-    <bookmark href="https://online.stanford.edu/explore?type=All&amp;topics%5B1043%5D=1043&amp;topics%5B1050%5D=1050&amp;topics%5B1048%5D=1048&amp;topics%5B1072%5D=1072&amp;topics%5B1045%5D=1045&amp;topics%5B1042%5D=1042&amp;topics%5B1046%5D=1046&amp;topics%5B1044%5D=1044&amp;topics%5B1055%5D=1055&amp;topics%5B1071%5D=1071&amp;free_or_paid%5Bfree%5D=free&amp;filter%5B0%5D=free_or_paid%3Afree&amp;filter%5B1%5D=topic%3A1042&amp;filter%5B2%5D=topic%3A1043&amp;filter%5B3%5D=topic%3A1045&amp;filter%5B4%5D=topic%3A1046&amp;items_per_page=12&amp;keywords=" id="55">
-      <title>Explore | Stanford Online</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=O--rkQNKqls&amp;list=PLbRMhDVUMngf-peFloB7kyiA40EptH1up" id="56">
-      <title>Computer Networks And Internet Protocol</title>
-    </bookmark>
-    <bookmark href="https://onlinecourses.swayam2.ac.in/nou25_cs05/preview?user_email=pandeyharshvardhan4@gmail.com" id="57">
-      <title>Digital Forensics - Course</title>
-    </bookmark>
-    <bookmark href="https://onlinecourses.nptel.ac.in/noc25_cs16/preview" id="58">
-      <title>Cryptography and Network Security - Course</title>
-    </bookmark>
-    <bookmark href="https://onlinecourses.nptel.ac.in/noc25_cs31/preview" id="59">
-      <title>Foundations of Cryptography - Course</title>
-    </bookmark>
-    <bookmark href="https://onlinecourses.nptel.ac.in/noc25_cs32/preview" id="60">
-      <title>Foundations of Cyber Physical Systems - Course</title>
-    </bookmark>
-    <bookmark href="https://mitxonline.mit.edu/courses/course-v1:MITxT+Bootcamp1/" id="132">
-      <title>Entrepreneurship 101: Who is Your Customer</title>
-    </bookmark>
-    <bookmark href="https://www.harvardonline.harvard.edu/course/rhetoric-art-persuasive-writing-public-speaking" id="133">
-      <title>Rhetoric: The Art of Persuasive Writing and Public Speaking | Harvard Online Course</title>
-    </bookmark>
-    <bookmark href="https://nptel.ac.in/domains/discipline/106?course=106_5" id="134">
-      <title>NPTEL - CYBER SECURITY</title>
-    </bookmark>
-    <bookmark href="https://swayam.gov.in/mycourses" id="135">
-      <title>SWAYAM</title>
-    </bookmark>
-  </folder>
-  <folder id="13">
-    <title>Cyber-Roadmap</title>
-    <bookmark href="https://roadmap.sh/cyber-security" id="61">
-      <title>CS Roadmap</title>
-    </bookmark>
-    <bookmark href="https://github.com/search?q=cybersecurity+roadmap&amp;type=repositories&amp;s=stars&amp;o=desc" id="62">
-      <title>Repository search results · GitHub</title>
-    </bookmark>
-    <bookmark href="https://github.com/thatstraw/Cybersecurity-Roadmap?tab=readme-ov-file" id="63">
-      <title>GitHub - thatstraw/Cybersecurity-Roadmap</title>
-    </bookmark>
-    <bookmark href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/tree/main" id="64">
-      <title>GitHub - farhanashrafdev/90DaysOfCyberSecurity: This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md</title>
-    </bookmark>
-    <bookmark href="https://github.com/carlcastanas/Cybersecurity-Roadmap" id="65">
-      <title>GitHub - carlcastanas/Cybersecurity-Roadmap</title>
-    </bookmark>
-    <bookmark href="https://github.com/rezaduty/cybersecurity-career-path" id="66">
-      <title>GitHub - rezaduty/cybersecurity-career-path: Cybersecurity Career Path</title>
-    </bookmark>
-    <bookmark href="https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap?tab=readme-ov-file#security-research-resources" id="67">
-      <title>GitHub - Hamed233/Cybersecurity-Mastery-Roadmap: A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance</title>
-    </bookmark>
-    <bookmark href="https://github.com/Hacking-Notes/Hacker-Roadmap" id="68">
-      <title>GitHub - Hacking-Notes/Hacker-Roadmap: A detailed plan to achieve proficiency in hacking and penetration testing, with pathways including obtaining a degree in cybersecurity or earning relevant certifications.</title>
-    </bookmark>
-    <bookmark href="https://github.com/thatstraw/Cybersecurity-Roadmap" id="69">
-      <title>GitHub - thatstraw/Cybersecurity-Roadmap</title>
-    </bookmark>
-  </folder>
-  <folder id="14">
-    <title>Nack</title>
-    <bookmark href="https://tryhackme.com/dashboard" id="70">
-      <title>TryHackMe | Dashboard</title>
-    </bookmark>
-    <bookmark href="https://scientificmagazines.top/tag/hackercool/" id="71">
-      <title>Hackercool Archives - scientificmagazines</title>
-    </bookmark>
-    <bookmark href="https://www.hackthebox.com/" id="72">
-      <title>Hack The Box: Hacking Training For The Best | Individuals &amp; Companies</title>
-    </bookmark>
-    <bookmark href="https://play.picoctf.org/account" id="73">
-      <title>picoCTF - Account Settings</title>
-    </bookmark>
-    <bookmark href="https://www.hackerone.com/" id="74">
-      <title>HackerOne | #1 Trusted Security Platform and Hacker Program</title>
-    </bookmark>
-    <bookmark href="https://ctftime.org/" id="75">
-      <title>CTFtime.org / All about CTF (Capture The Flag)</title>
-    </bookmark>
-  </folder>
-  <folder id="113">
-    <title>Coding</title>
-    <bookmark href="https://github.com/" id="114">
-      <title>GitHub</title>
-    </bookmark>
-    <bookmark href="https://www.freecodecamp.org/learn" id="115">
-      <title>Learn to Code — For Free — Coding Courses for Busy People</title>
-    </bookmark>
-    <bookmark href="https://www.geeksforgeeks.org/?utm_source=auth&amp;utm_medium=header&amp;utm_campaign=auth" id="116">
-      <title>GeeksforGeeks | A computer science portal for geeks</title>
-    </bookmark>
-    <bookmark href="https://replit.com/~" id="117">
-      <title>Home - Replit</title>
-    </bookmark>
-    <bookmark href="https://leetcode.com/problemset/" id="118">
-      <title>Problems - LeetCode</title>
-    </bookmark>
-    <bookmark href="https://www.hackerrank.com/dashboard" id="119">
-      <title>Dashboard | HackerRank</title>
-    </bookmark>
-    <bookmark href="https://skillsforall.com/" id="120">
-      <title>Skills for All by Cisco: Free Online Tech Courses For All</title>
-    </bookmark>
-    <bookmark href="https://www.codecademy.com/learn" id="121">
-      <title>My Home | Codecademy</title>
-    </bookmark>
-    <bookmark href="https://www.30secondsofcode.org/" id="122">
-      <title>30 seconds of code</title>
-    </bookmark>
-    <bookmark href="https://codedamn.com/dashboard" id="123">
-      <title>Dashboard - codedamn</title>
-    </bookmark>
-    <bookmark href="https://exercism.org/dashboard" id="156">
-      <title>Exercism</title>
-    </bookmark>
-    <bookmark href="https://www.theforage.com/dashboard" id="157">
-      <title>Your Dashboard | Forage</title>
-    </bookmark>
-    <bookmark href="https://home.edx.org/" id="158">
-      <title>Learner Home</title>
-    </bookmark>
-    <bookmark href="https://nptel.ac.in/" id="159">
-      <title>Home :: NPTEL</title>
-    </bookmark>
-    <bookmark href="https://swayam.gov.in/" id="160">
-      <title>Swayam Central</title>
-    </bookmark>
-    <bookmark href="https://quickref.me/index.html" id="161">
-      <title>QuickRef.ME - Quick Reference Cheat Sheet</title>
-    </bookmark>
-    <bookmark href="https://github.com/topics/technical-writing" id="162">
-      <title>technical-writing · GitHub Topics · GitHub</title>
-    </bookmark>
-    <bookmark href="https://developers.google.com/tech-writing/one" id="163">
-      <title>Technical Writing One introduction  |  Google for Developers</title>
-    </bookmark>
-    <bookmark href="https://takeuforward.org/" id="164">
-      <title>takeuforward - Best Coding Tutorials for Free</title>
-    </bookmark>
-    <bookmark href="https://www.codechef.com/learn" id="165">
-      <title>Learn to Code - Online Coding Learning Platform - CodeChef</title>
-    </bookmark>
-    <bookmark href="https://fullstackopen.com/en/" id="172">
-      <title>https://fullstackopen.com/en/</title>
-    </bookmark>
+  <folder id="173">
+    <title>Floccus (Vardhan)</title>
+    <folder id="176">
+      <title>Bookmarks Menu</title>
+    </folder>
+    <folder id="177">
+      <title>Bookmarks Bar</title>
+      <folder id="5">
+        <title>Typing</title>
+        <bookmark href="https://www.edclub.com/sportal/program-3/116.play" id="23">
+          <title>edclub</title>
+        </bookmark>
+        <bookmark href="https://monkeytype.com/" id="24">
+          <title>Monkeytype | A minimalistic, customizable typing test</title>
+        </bookmark>
+        <bookmark href="https://www.keybr.com/" id="25">
+          <title>Practice</title>
+        </bookmark>
+        <bookmark href="https://www.typingmaster.com/typing-simulator/" id="26">
+          <title>WPM Typing Speed Simulator: See How Much Time You Can Save</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://openhardwaremonitor.org/downloads/" id="6">
+        <title>OPHardware Monitor</title>
+      </bookmark>
+      <bookmark href="https://omniscient.mn.co/posts/free-videos-resources-how-to-become-unrecognizable-in-6-months" id="7">
+        <title>Omniscient</title>
+      </bookmark>
+      <bookmark href="https://fmhy.net/" id="8">
+        <title>FMHY</title>
+      </bookmark>
+      <folder id="9">
+        <title>Intern</title>
+        <bookmark href="https://www.scholarshipsinindia.com/awards_competitions_in_india.html#gsc.tab=0" id="27">
+          <title>ScholinIndia</title>
+        </bookmark>
+        <bookmark href="https://opportunitycell.com/" id="28">
+          <title>OPPORTUNITY CELL – Where Your Dreams Become Reality</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/" id="29">
+          <title>Hacker News</title>
+        </bookmark>
+        <bookmark href="https://www.glassdoor.co.in/index.htm?countryRedirect=true" id="30">
+          <title>Glassdoor | Job Search and Career Community</title>
+        </bookmark>
+        <bookmark href="https://scholarshipscorner.website/internships/" id="31">
+          <title>Internships 2026 Archives - Scholarships Corner - Fully Funded Scholarships and Admissions</title>
+        </bookmark>
+        <bookmark href="https://www.buddy4study.com/internship" id="32">
+          <title>Internships 2026 for Students in India | Buddy4Study</title>
+        </bookmark>
+      </folder>
+      <folder id="10">
+        <title>Mails</title>
+        <bookmark href="https://mail.google.com/mail/u/1/#inbox" id="33">
+          <title>Inbox - imailtospeaker@gmail.com - Gmail</title>
+        </bookmark>
+        <bookmark href="https://mail.google.com/mail/u/3/#inbox" id="34">
+          <title>Inbox - vardhanlog@gmail.com - Gmail</title>
+        </bookmark>
+        <bookmark href="https://mail.google.com/mail/u/4/?ogbl#inbox" id="35">
+          <title>Inbox - vardhanbhardvaj@gmail.com - Gmail</title>
+        </bookmark>
+        <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="36">
+          <title>Inbox - reach2techist@gmail.com - Gmail</title>
+        </bookmark>
+        <bookmark href="https://outlook.live.com/" id="37">
+          <title>Outlook</title>
+        </bookmark>
+        <bookmark href="https://mail.zoho.in/" id="38">
+          <title>Zoho Mail</title>
+        </bookmark>
+        <bookmark href="https://www.icloud.com/mail/" id="39">
+          <title>iCloud Mail</title>
+        </bookmark>
+        <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="40">
+          <title>Inbox - pandeyharshvardhan4@gmail.com - Gmail</title>
+        </bookmark>
+      </folder>
+      <folder id="11">
+        <title>Hackathons</title>
+        <bookmark href="https://mlh.io/" id="41">
+          <title>Major League Hacking</title>
+        </bookmark>
+        <bookmark href="https://hackthisfall.tech/" id="42">
+          <title>Hack This Fall Community</title>
+        </bookmark>
+        <bookmark href="https://devfolio.co/discover" id="43">
+          <title>Discover | Devfolio</title>
+        </bookmark>
+        <bookmark href="https://www.wemakedevs.org/" id="44">
+          <title>WeMakeDevs</title>
+        </bookmark>
+        <bookmark href="https://devpost.com/hackathons" id="45">
+          <title>New &amp; upcoming hackathons · Devpost</title>
+        </bookmark>
+        <bookmark href="https://angelhack.com/services/hackathon/" id="46">
+          <title>Hackathon Agency | Organize Virtual &amp; In-Person Hackathons | AngelHack</title>
+        </bookmark>
+        <bookmark href="https://www.hackerearth.com/challenges/hackathon/" id="47">
+          <title>Participate in Hackathons, bring change and even solve business challenges with your code | HackerEarth</title>
+        </bookmark>
+        <bookmark href="https://unstop.com/hackathons?oppstatus=open" id="48">
+          <title>2540 Hackathons - Explore Key Challenges</title>
+        </bookmark>
+        <bookmark href="https://www.hackjunction.com/" id="49">
+          <title>Junction - World-Class Hackathons</title>
+        </bookmark>
+        <bookmark href="https://pennapps.com/#tracks" id="50">
+          <title>PennApps XXVI</title>
+        </bookmark>
+        <bookmark href="https://hackmit.org/" id="124">
+          <title>HackMIT 2026</title>
+        </bookmark>
+        <bookmark href="https://www.sih.gov.in/sih2025PS" id="125">
+          <title>Smart India Hackathon</title>
+        </bookmark>
+        <bookmark href="https://www.treehacks.com/" id="126">
+          <title>TreeHacks 2026</title>
+        </bookmark>
+        <bookmark href="https://www.calhacks.io/" id="127">
+          <title>Cal Hacks 12.0</title>
+        </bookmark>
+        <bookmark href="https://hackthenorth.com/" id="128">
+          <title>Hack the North</title>
+        </bookmark>
+        <bookmark href="https://hackathon.iiitkalyani.ac.in/" id="129">
+          <title>Status Code 2</title>
+        </bookmark>
+        <bookmark href="https://dev.events/" id="130">
+          <title>Developer conferences 2026 / 2027</title>
+        </bookmark>
+        <bookmark href="https://calcuttahacks.xyz/" id="131">
+          <title>Calcutta &lt;Hacks/&gt; - 24 Hours Hackathon</title>
+        </bookmark>
+      </folder>
+      <folder id="12">
+        <title>ICourses</title>
+        <bookmark href="https://onlinecourses.nptel.ac.in/noc23_cs44/preview" id="51">
+          <title>Ethical Hacking - Course</title>
+        </bookmark>
+        <bookmark href="https://onlinecourses.nptel.ac.in/noc25_ee54/preview" id="52">
+          <title>Network Security - Course</title>
+        </bookmark>
+        <bookmark href="https://www.edx.org/" id="53">
+          <title>Build new skills. Advance your career. | edX</title>
+        </bookmark>
+        <bookmark href="https://explorecourses.stanford.edu/browse" id="54">
+          <title>Stanford University Explore Courses</title>
+        </bookmark>
+        <bookmark href="https://online.stanford.edu/explore?type=All&amp;topics%5B1043%5D=1043&amp;topics%5B1050%5D=1050&amp;topics%5B1048%5D=1048&amp;topics%5B1072%5D=1072&amp;topics%5B1045%5D=1045&amp;topics%5B1042%5D=1042&amp;topics%5B1046%5D=1046&amp;topics%5B1044%5D=1044&amp;topics%5B1055%5D=1055&amp;topics%5B1071%5D=1071&amp;free_or_paid%5Bfree%5D=free&amp;filter%5B0%5D=free_or_paid%3Afree&amp;filter%5B1%5D=topic%3A1042&amp;filter%5B2%5D=topic%3A1043&amp;filter%5B3%5D=topic%3A1045&amp;filter%5B4%5D=topic%3A1046&amp;items_per_page=12&amp;keywords=" id="55">
+          <title>Explore | Stanford Online</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/watch?v=O--rkQNKqls&amp;list=PLbRMhDVUMngf-peFloB7kyiA40EptH1up" id="56">
+          <title>Computer Networks And Internet Protocol</title>
+        </bookmark>
+        <bookmark href="https://onlinecourses.swayam2.ac.in/nou25_cs05/preview?user_email=pandeyharshvardhan4@gmail.com" id="57">
+          <title>Digital Forensics - Course</title>
+        </bookmark>
+        <bookmark href="https://onlinecourses.nptel.ac.in/noc25_cs16/preview" id="58">
+          <title>Cryptography and Network Security - Course</title>
+        </bookmark>
+        <bookmark href="https://onlinecourses.nptel.ac.in/noc25_cs31/preview" id="59">
+          <title>Foundations of Cryptography - Course</title>
+        </bookmark>
+        <bookmark href="https://onlinecourses.nptel.ac.in/noc25_cs32/preview" id="60">
+          <title>Foundations of Cyber Physical Systems - Course</title>
+        </bookmark>
+        <bookmark href="https://mitxonline.mit.edu/courses/course-v1:MITxT+Bootcamp1/" id="132">
+          <title>Entrepreneurship 101: Who is Your Customer</title>
+        </bookmark>
+        <bookmark href="https://www.harvardonline.harvard.edu/course/rhetoric-art-persuasive-writing-public-speaking" id="133">
+          <title>Rhetoric: The Art of Persuasive Writing and Public Speaking | Harvard Online Course</title>
+        </bookmark>
+        <bookmark href="https://nptel.ac.in/domains/discipline/106?course=106_5" id="134">
+          <title>NPTEL - CYBER SECURITY</title>
+        </bookmark>
+        <bookmark href="https://swayam.gov.in/mycourses" id="135">
+          <title>SWAYAM</title>
+        </bookmark>
+      </folder>
+      <folder id="13">
+        <title>Cyber-Roadmap</title>
+        <bookmark href="https://roadmap.sh/cyber-security" id="61">
+          <title>CS Roadmap</title>
+        </bookmark>
+        <bookmark href="https://github.com/search?q=cybersecurity+roadmap&amp;type=repositories&amp;s=stars&amp;o=desc" id="62">
+          <title>Repository search results · GitHub</title>
+        </bookmark>
+        <bookmark href="https://github.com/thatstraw/Cybersecurity-Roadmap?tab=readme-ov-file" id="63">
+          <title>GitHub - thatstraw/Cybersecurity-Roadmap</title>
+        </bookmark>
+        <bookmark href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity/tree/main" id="64">
+          <title>GitHub - farhanashrafdev/90DaysOfCyberSecurity: This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md</title>
+        </bookmark>
+        <bookmark href="https://github.com/carlcastanas/Cybersecurity-Roadmap" id="65">
+          <title>GitHub - carlcastanas/Cybersecurity-Roadmap</title>
+        </bookmark>
+        <bookmark href="https://github.com/rezaduty/cybersecurity-career-path" id="66">
+          <title>GitHub - rezaduty/cybersecurity-career-path: Cybersecurity Career Path</title>
+        </bookmark>
+        <bookmark href="https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap?tab=readme-ov-file#security-research-resources" id="67">
+          <title>GitHub - Hamed233/Cybersecurity-Mastery-Roadmap: A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance</title>
+        </bookmark>
+        <bookmark href="https://github.com/Hacking-Notes/Hacker-Roadmap" id="68">
+          <title>GitHub - Hacking-Notes/Hacker-Roadmap: A detailed plan to achieve proficiency in hacking and penetration testing, with pathways including obtaining a degree in cybersecurity or earning relevant certifications.</title>
+        </bookmark>
+        <bookmark href="https://github.com/thatstraw/Cybersecurity-Roadmap" id="69">
+          <title>GitHub - thatstraw/Cybersecurity-Roadmap</title>
+        </bookmark>
+      </folder>
+      <folder id="14">
+        <title>Nack</title>
+        <bookmark href="https://tryhackme.com/dashboard" id="70">
+          <title>TryHackMe | Dashboard</title>
+        </bookmark>
+        <bookmark href="https://scientificmagazines.top/tag/hackercool/" id="71">
+          <title>Hackercool Archives - scientificmagazines</title>
+        </bookmark>
+        <bookmark href="https://www.hackthebox.com/" id="72">
+          <title>Hack The Box: Hacking Training For The Best | Individuals &amp; Companies</title>
+        </bookmark>
+        <bookmark href="https://play.picoctf.org/account" id="73">
+          <title>picoCTF - Account Settings</title>
+        </bookmark>
+        <bookmark href="https://www.hackerone.com/" id="74">
+          <title>HackerOne | #1 Trusted Security Platform and Hacker Program</title>
+        </bookmark>
+        <bookmark href="https://ctftime.org/" id="75">
+          <title>CTFtime.org / All about CTF (Capture The Flag)</title>
+        </bookmark>
+      </folder>
+      <folder id="113">
+        <title>Coding</title>
+        <bookmark href="https://github.com/" id="114">
+          <title>GitHub</title>
+        </bookmark>
+        <bookmark href="https://www.freecodecamp.org/learn" id="115">
+          <title>Learn to Code — For Free — Coding Courses for Busy People</title>
+        </bookmark>
+        <bookmark href="https://www.geeksforgeeks.org/?utm_source=auth&amp;utm_medium=header&amp;utm_campaign=auth" id="116">
+          <title>GeeksforGeeks | A computer science portal for geeks</title>
+        </bookmark>
+        <bookmark href="https://replit.com/~" id="117">
+          <title>Home - Replit</title>
+        </bookmark>
+        <bookmark href="https://leetcode.com/problemset/" id="118">
+          <title>Problems - LeetCode</title>
+        </bookmark>
+        <bookmark href="https://www.hackerrank.com/dashboard" id="119">
+          <title>Dashboard | HackerRank</title>
+        </bookmark>
+        <bookmark href="https://skillsforall.com/" id="120">
+          <title>Skills for All by Cisco: Free Online Tech Courses For All</title>
+        </bookmark>
+        <bookmark href="https://www.codecademy.com/learn" id="121">
+          <title>My Home | Codecademy</title>
+        </bookmark>
+        <bookmark href="https://www.30secondsofcode.org/" id="122">
+          <title>30 seconds of code</title>
+        </bookmark>
+        <bookmark href="https://codedamn.com/dashboard" id="123">
+          <title>Dashboard - codedamn</title>
+        </bookmark>
+        <bookmark href="https://exercism.org/dashboard" id="156">
+          <title>Exercism</title>
+        </bookmark>
+        <bookmark href="https://www.theforage.com/dashboard" id="157">
+          <title>Your Dashboard | Forage</title>
+        </bookmark>
+        <bookmark href="https://home.edx.org/" id="158">
+          <title>Learner Home</title>
+        </bookmark>
+        <bookmark href="https://nptel.ac.in/" id="159">
+          <title>Home :: NPTEL</title>
+        </bookmark>
+        <bookmark href="https://swayam.gov.in/" id="160">
+          <title>Swayam Central</title>
+        </bookmark>
+        <bookmark href="https://quickref.me/index.html" id="161">
+          <title>QuickRef.ME - Quick Reference Cheat Sheet</title>
+        </bookmark>
+        <bookmark href="https://github.com/topics/technical-writing" id="162">
+          <title>technical-writing · GitHub Topics · GitHub</title>
+        </bookmark>
+        <bookmark href="https://developers.google.com/tech-writing/one" id="163">
+          <title>Technical Writing One introduction  |  Google for Developers</title>
+        </bookmark>
+        <bookmark href="https://takeuforward.org/" id="164">
+          <title>takeuforward - Best Coding Tutorials for Free</title>
+        </bookmark>
+        <bookmark href="https://www.codechef.com/learn" id="165">
+          <title>Learn to Code - Online Coding Learning Platform - CodeChef</title>
+        </bookmark>
+        <bookmark href="https://fullstackopen.com/en/" id="172">
+          <title>https://fullstackopen.com/en/</title>
+        </bookmark>
+        <bookmark href="https://coddy.tech/journeys" id="175">
+          <title>Coddy - Journeys</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="178">
+      <title>Other Bookmarks</title>
+      <folder id="15">
+        <title>GOD</title>
+        <bookmark href="https://www.heritage.iitk.ac.in/" id="76">
+          <title>Heritage</title>
+        </bookmark>
+        <bookmark href="https://www.veducation.world/library" id="77">
+          <title>Veducation: All Sanatan Shastras at one place</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://solofilmmaking-0wewdne.gamma.site/" id="16">
+        <title>Start Solo Filmmaking in 2026:</title>
+      </bookmark>
+      <bookmark href="https://gerisonsabino.com/bing_autosearch/" id="17">
+        <title>Bing Auto Search for Microsoft Rewards</title>
+      </bookmark>
+      <bookmark href="https://rewards.bing.com/" id="18">
+        <title>Microsoft Rewards</title>
+      </bookmark>
+      <bookmark href="https://echowave.io/app/" id="19">
+        <title>EchoWave Dashboard</title>
+      </bookmark>
+      <folder id="20">
+        <title>Da Vinci</title>
+        <bookmark href="https://www.youtube.com/@CullenKelly/playlists" id="78">
+          <title>Cullen Kelly - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@AkashKRavi/playlists" id="79">
+          <title>AkashKRavi - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@CaseyFaris" id="80">
+          <title>Casey Faris - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@JayAreTV/playlists" id="81">
+          <title>JayAreTV - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.youtube.com/@DarrenMostyn" id="82">
+          <title>Darren Mostyn - YouTube</title>
+        </bookmark>
+        <bookmark href="https://www.psdly.to/?s=Da+Vinci" id="83">
+          <title>You Searched For Da Vinci - Psdly</title>
+        </bookmark>
+      </folder>
+      <folder id="21">
+        <title>Dumps</title>
+        <bookmark href="https://studio.firebase.google.com/?utm_source=firebase_studio_marketing&amp;utm_medium=et&amp;utm_campaign=FY25-Q2-firebasestudio_nextlaunch&amp;utm_content=hero_tryfirebasestudio&amp;utm_term=-&amp;pli=1" id="84">
+          <title></title>
+        </bookmark>
+        <bookmark href="https://dashboard.webdevopen.com/c/career-week/" id="85">
+          <title></title>
+        </bookmark>
+        <bookmark href="https://www.opentheatre.in/" id="86">
+          <title></title>
+        </bookmark>
+        <bookmark href="https://speakfluence.notion.site/How-to-Influence-Anyone-3bfc76243c46468380cfa2f59b0979b1" id="87">
+          <title>How to Influence Anyone</title>
+        </bookmark>
+        <bookmark href="https://titanium-tray-e39.notion.site/150-Data-Structures-and-Algorithms-Problems-1a8c3f3f47a2801ba028d2643b756374" id="88">
+          <title>150 Data Structures and Algorithms Problems</title>
+        </bookmark>
+        <bookmark href="https://vidbox.to/home" id="89">
+          <title>Vidbox - Your Ultimate Streaming Guide</title>
+        </bookmark>
+        <bookmark href="https://app.kortex.co/public/document/883d9246-6dde-4794-9f54-92b8ff07d502?aid=21606" id="90">
+          <title>Kortex</title>
+        </bookmark>
+        <bookmark href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/?rdt=50670#wiki_.25BA_ios_streaming" id="91">
+          <title>Iphone Hacks</title>
+        </bookmark>
+        <bookmark href="https://www.battleborn.in/" id="92">
+          <title>Get Best MMA, Kickboxcing Training In Kolkata by Battleborn Warriors</title>
+        </bookmark>
+        <bookmark href="https://psycnet.apa.org/search/citedBy/2007-02340-006" id="93">
+          <title>APA PsycNet Cited By Search Results</title>
+        </bookmark>
+        <bookmark href="https://360degreemma.wordpress.com/2012/05/07/mixed-martial-arts-mma-kolkata-west-bengal-india/" id="136">
+          <title>MMA (Mixed Martial Arts) , KICKBOXING , BJJ, Brazilian Jiu-Jitsu, GRAPPLING, SELF DEFENSE Training for Kids, Men &amp; Women in Kolkata, West Bengal, India | 360degreemma</title>
+        </bookmark>
+        <bookmark href="https://petersonacademy.com/courses" id="137">
+          <title>Courses | Peterson Academy</title>
+        </bookmark>
+        <bookmark href="https://space.bilibili.com/387843184/lists" id="138">
+          <title>JordanBPeterson视频专辑-JordanBPeterson视频合集-哔哩哔哩视频</title>
+        </bookmark>
+        <bookmark href="https://www.docplus.com/" id="139">
+          <title>D+</title>
+        </bookmark>
+        <bookmark href="https://mega.nz/folder/J7Mh3DIK#LdyyrSiNKoLc1LkvsQHb4g/folder/FuFGFb5a" id="140">
+          <title>Date</title>
+        </bookmark>
+        <bookmark href="https://archive.org/details/nnmclub.to-adobe-illustrator-mega-course-from-beginner-to-advanced-illustrator/475696-069+-+Pattern+-+Adobe+Illustrator+Mega+Course+-+From+Beginner+to+Advanced+Illustrator.mp4" id="141">
+          <title>illustrator course</title>
+        </bookmark>
+        <bookmark href="https://drive.google.com/drive/mobile/folders/1if09a9QyNfBRlAKey7If5preZ3BswudZ" id="142">
+          <title>Books</title>
+        </bookmark>
+        <bookmark href="https://online-courses.club/udemy-after-effects-animated-graphics-beast-by-alan-ayoubi/" id="143">
+          <title>After Effects Animated Graphics Beast by Alan Ayoubi &lt; Premium Courses Online</title>
+        </bookmark>
+        <bookmark href="https://www.psdly.to/" id="144">
+          <title>Psdly</title>
+        </bookmark>
+        <bookmark href="https://github.com/ItIsMeCall911/Course-Piracy-Index" id="145">
+          <title>https://github.com/ItIsMeCall911/Course-Piracy-Index</title>
+        </bookmark>
+        <bookmark href="https://github.com/WeMakeDevs/roadmaps/tree/main/Backend-Development#readme" id="166">
+          <title>BD</title>
+        </bookmark>
+        <bookmark href="https://communitytaught.org/class/learn-javascript" id="167">
+          <title>Learn Javascript</title>
+        </bookmark>
+        <bookmark href="https://www.procraftindia.com/products/kepma-f0-b-phoenix-series-solid-top-cutaway-acoustic-guitar-cherry-red-matt" id="168">
+          <title>Kepma F0-B Phoenix Series Solid Top Cutaway Acoustic Guitar - Cherry Red Matt</title>
+        </bookmark>
+        <bookmark href="https://eloquentjavascript.net/" id="169">
+          <title>Wloquebt JS</title>
+        </bookmark>
+      </folder>
+      <folder id="22">
+        <title>$$$</title>
+        <folder id="94">
+          <title>+</title>
+          <bookmark href="https://www.reddit.com/r/beermoneyindia/comments/1lyzkrf/beermoney_websites_in_india_megathread/" id="96">
+            <title>Beermoney Websites in India Megathread!! : r/beermoneyindia</title>
+          </bookmark>
+          <bookmark href="https://www.dscout.com/participate-in-research-studies" id="97">
+            <title>Join Dscout For Paid Surveys &amp; Product Testing Opportunities</title>
+          </bookmark>
+          <bookmark href="https://www.usertesting.com/get-paid-to-test" id="98">
+            <title>Get Paid to Test | Make Money Online | Side Hustle Ideas</title>
+          </bookmark>
+          <bookmark href="https://www.userinterviews.com/participants/signup" id="99">
+            <title>Sign up | User Interviews</title>
+          </bookmark>
+          <bookmark href="https://www.neevo.ai/" id="100">
+            <title>Neevo | Get paid to shape the future!</title>
+          </bookmark>
+          <bookmark href="https://dashboard.pulselabs.ai/panelist/dashboard" id="101">
+            <title>Pulse Labs</title>
+          </bookmark>
+          <bookmark href="https://www.respondent.io/become-a-participant" id="102">
+            <title>Get paid to participate in surveys, focus groups, and interviews | Respondent</title>
+          </bookmark>
+          <bookmark href="https://account.yougov.com/in-en/join/rewards" id="103">
+            <title>YouGov - India</title>
+          </bookmark>
+          <bookmark href="https://serpclix.com/clickers/" id="104">
+            <title>Earn Money as a Clicker</title>
+          </bookmark>
+          <bookmark href="https://www.heycash.com/en-in/contact" id="105">
+            <title>Contact HeyCash ｜ We’re Here to Help You Earn More</title>
+          </bookmark>
+          <bookmark href="https://grabpoints.com/" id="146">
+            <title>Earn Free Gift Cards and Cash Online - Grabpoints</title>
+          </bookmark>
+          <bookmark href="https://test.io/company/become-a-tester" id="147">
+            <title>Become a Tester | Test IO</title>
+          </bookmark>
+          <bookmark href="https://testerwork.com/" id="148">
+            <title>Homepage - TesterWork</title>
+          </bookmark>
+          <bookmark href="https://app.trymata.com/tester/signup" id="149">
+            <title>Get Paid To Test Websites &amp; Apps | Trymata Digital Experience Insights</title>
+          </bookmark>
+          <bookmark href="https://www.google.com/search?q=get+paid+to+test&amp;sca_esv=aa86132b60f0534c&amp;sxsrf=ANbL-n7lhE_zwq_GuzL2Ub0V88NfUb1d6A:1772021673078&amp;ei=qeeeac3ABLyz5OUP85-b8QU&amp;start=10&amp;sa=N&amp;sstk=Af77f_este86K-i6PQplw02cJWx1g1rIZp3LO0hG0PXw5kxvM0qApEczVLm2jLnTIYoIpQdvR25k8ANslf4RxhHHdwXRUKBMkmKGUg&amp;ved=2ahUKEwiNue6Sz_SSAxW8GbkGHfPPJl4Q8tMDegQIDRAE&amp;biw=2040&amp;bih=1034&amp;dpr=1.25" id="150">
+            <title>get paid to test - Google Search</title>
+          </bookmark>
+          <bookmark href="https://userq.com/become-a-tester/" id="151">
+            <title>Become a Tester and Earn Money for Your Thoughts | UserQ</title>
+          </bookmark>
+          <bookmark href="https://app.playtestcloud.com/signup" id="152">
+            <title>Playtester Signup: Become a Playtester - PlaytestCloud</title>
+          </bookmark>
+          <bookmark href="https://www.usersense.com/user-tester" id="153">
+            <title>Earn Money Testing Websites and Apps | User Sense</title>
+          </bookmark>
+          <bookmark href="https://www.testingtime.com/en/become-a-paid-testuser/" id="154">
+            <title>Become a Paid Test User and Earn Money</title>
+          </bookmark>
+          <bookmark href="https://www.userlytics.com/user-experience-research/paid-ux-testing/" id="155">
+            <title>Make Money Online by Becoming a Paid Test User</title>
+          </bookmark>
+          <bookmark href="https://www.userfeel.com/tester-faq" id="170">
+            <title>Tester Training &amp; Frequently Asked Questions - Userfeel.com</title>
+          </bookmark>
+          <bookmark href="https://www.digivante.com/crowdtesting-community/become-a-tester/" id="171">
+            <title>Become a crowd tester with Digivante</title>
+          </bookmark>
+        </folder>
+        <folder id="95">
+          <title>Signed Up</title>
+          <bookmark href="https://grabpoints.com/" id="106">
+            <title>Earn Free Gift Cards and Cash Online - Grabpoints</title>
+          </bookmark>
+          <bookmark href="https://app.trymata.com/tester/signup" id="107">
+            <title>Get Paid To Test Websites &amp; Apps | Trymata Digital Experience Insights</title>
+          </bookmark>
+          <bookmark href="https://testerwork.com/" id="108">
+            <title>Homepage - TesterWork</title>
+          </bookmark>
+          <bookmark href="https://test.io/company/become-a-tester" id="109">
+            <title>Cloudflare: WAF block</title>
+          </bookmark>
+          <bookmark href="https://www.dscout.com/participate-in-research-studies" id="110">
+            <title>Join Dscout For Paid Surveys &amp; Product Testing Opportunities</title>
+          </bookmark>
+          <bookmark href="https://www.usertesting.com/get-paid-to-test" id="111">
+            <title>Get Paid to Test | Make Money Online | Side Hustle Ideas</title>
+          </bookmark>
+          <bookmark href="https://www.respondent.io/become-a-participant/" id="112">
+            <title>Get Paid to Participate in Research Studies | Respondent</title>
+          </bookmark>
+        </folder>
+      </folder>
+    </folder>
+    <folder id="179">
+      <title>Mobile Bookmarks</title>
+    </folder>
   </folder>
 </folder>
 <folder id="3">
   <title>Other Bookmarks</title>
-  <folder id="15">
-    <title>GOD</title>
-    <bookmark href="https://www.heritage.iitk.ac.in/" id="76">
-      <title>Heritage</title>
-    </bookmark>
-    <bookmark href="https://www.veducation.world/library" id="77">
-      <title>Veducation: All Sanatan Shastras at one place</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://solofilmmaking-0wewdne.gamma.site/" id="16">
-    <title>Start Solo Filmmaking in 2026:</title>
-  </bookmark>
-  <bookmark href="https://gerisonsabino.com/bing_autosearch/" id="17">
-    <title>Bing Auto Search for Microsoft Rewards</title>
-  </bookmark>
-  <bookmark href="https://rewards.bing.com/" id="18">
-    <title>Microsoft Rewards</title>
-  </bookmark>
-  <bookmark href="https://echowave.io/app/" id="19">
-    <title>EchoWave Dashboard</title>
-  </bookmark>
-  <folder id="20">
-    <title>Da Vinci</title>
-    <bookmark href="https://www.youtube.com/@CullenKelly/playlists" id="78">
-      <title>Cullen Kelly - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/@AkashKRavi/playlists" id="79">
-      <title>AkashKRavi - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/@CaseyFaris" id="80">
-      <title>Casey Faris - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/@JayAreTV/playlists" id="81">
-      <title>JayAreTV - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/@DarrenMostyn" id="82">
-      <title>Darren Mostyn - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.psdly.to/?s=Da+Vinci" id="83">
-      <title>You Searched For Da Vinci - Psdly</title>
-    </bookmark>
-  </folder>
-  <folder id="21">
-    <title>Dumps</title>
-    <bookmark href="https://studio.firebase.google.com/?utm_source=firebase_studio_marketing&amp;utm_medium=et&amp;utm_campaign=FY25-Q2-firebasestudio_nextlaunch&amp;utm_content=hero_tryfirebasestudio&amp;utm_term=-&amp;pli=1" id="84">
-      <title></title>
-    </bookmark>
-    <bookmark href="https://dashboard.webdevopen.com/c/career-week/" id="85">
-      <title></title>
-    </bookmark>
-    <bookmark href="https://www.opentheatre.in/" id="86">
-      <title></title>
-    </bookmark>
-    <bookmark href="https://speakfluence.notion.site/How-to-Influence-Anyone-3bfc76243c46468380cfa2f59b0979b1" id="87">
-      <title>How to Influence Anyone</title>
-    </bookmark>
-    <bookmark href="https://titanium-tray-e39.notion.site/150-Data-Structures-and-Algorithms-Problems-1a8c3f3f47a2801ba028d2643b756374" id="88">
-      <title>150 Data Structures and Algorithms Problems</title>
-    </bookmark>
-    <bookmark href="https://vidbox.to/home" id="89">
-      <title>Vidbox - Your Ultimate Streaming Guide</title>
-    </bookmark>
-    <bookmark href="https://app.kortex.co/public/document/883d9246-6dde-4794-9f54-92b8ff07d502?aid=21606" id="90">
-      <title>Kortex</title>
-    </bookmark>
-    <bookmark href="https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/?rdt=50670#wiki_.25BA_ios_streaming" id="91">
-      <title>Iphone Hacks</title>
-    </bookmark>
-    <bookmark href="https://www.battleborn.in/" id="92">
-      <title>Get Best MMA, Kickboxcing Training In Kolkata by Battleborn Warriors</title>
-    </bookmark>
-    <bookmark href="https://psycnet.apa.org/search/citedBy/2007-02340-006" id="93">
-      <title>APA PsycNet Cited By Search Results</title>
-    </bookmark>
-    <bookmark href="https://360degreemma.wordpress.com/2012/05/07/mixed-martial-arts-mma-kolkata-west-bengal-india/" id="136">
-      <title>MMA (Mixed Martial Arts) , KICKBOXING , BJJ, Brazilian Jiu-Jitsu, GRAPPLING, SELF DEFENSE Training for Kids, Men &amp; Women in Kolkata, West Bengal, India | 360degreemma</title>
-    </bookmark>
-    <bookmark href="https://petersonacademy.com/courses" id="137">
-      <title>Courses | Peterson Academy</title>
-    </bookmark>
-    <bookmark href="https://space.bilibili.com/387843184/lists" id="138">
-      <title>JordanBPeterson视频专辑-JordanBPeterson视频合集-哔哩哔哩视频</title>
-    </bookmark>
-    <bookmark href="https://www.docplus.com/" id="139">
-      <title>D+</title>
-    </bookmark>
-    <bookmark href="https://mega.nz/folder/J7Mh3DIK#LdyyrSiNKoLc1LkvsQHb4g/folder/FuFGFb5a" id="140">
-      <title>Date</title>
-    </bookmark>
-    <bookmark href="https://archive.org/details/nnmclub.to-adobe-illustrator-mega-course-from-beginner-to-advanced-illustrator/475696-069+-+Pattern+-+Adobe+Illustrator+Mega+Course+-+From+Beginner+to+Advanced+Illustrator.mp4" id="141">
-      <title>illustrator course</title>
-    </bookmark>
-    <bookmark href="https://drive.google.com/drive/mobile/folders/1if09a9QyNfBRlAKey7If5preZ3BswudZ" id="142">
-      <title>Books</title>
-    </bookmark>
-    <bookmark href="https://online-courses.club/udemy-after-effects-animated-graphics-beast-by-alan-ayoubi/" id="143">
-      <title>After Effects Animated Graphics Beast by Alan Ayoubi &lt; Premium Courses Online</title>
-    </bookmark>
-    <bookmark href="https://www.psdly.to/" id="144">
-      <title>Psdly</title>
-    </bookmark>
-    <bookmark href="https://github.com/ItIsMeCall911/Course-Piracy-Index" id="145">
-      <title>https://github.com/ItIsMeCall911/Course-Piracy-Index</title>
-    </bookmark>
-    <bookmark href="https://github.com/WeMakeDevs/roadmaps/tree/main/Backend-Development#readme" id="166">
-      <title>BD</title>
-    </bookmark>
-    <bookmark href="https://communitytaught.org/class/learn-javascript" id="167">
-      <title>Learn Javascript</title>
-    </bookmark>
-    <bookmark href="https://www.procraftindia.com/products/kepma-f0-b-phoenix-series-solid-top-cutaway-acoustic-guitar-cherry-red-matt" id="168">
-      <title>Kepma F0-B Phoenix Series Solid Top Cutaway Acoustic Guitar - Cherry Red Matt</title>
-    </bookmark>
-    <bookmark href="https://eloquentjavascript.net/" id="169">
-      <title>Wloquebt JS</title>
-    </bookmark>
-  </folder>
-  <folder id="22">
-    <title>$$$</title>
-    <folder id="94">
-      <title>+</title>
-      <bookmark href="https://www.reddit.com/r/beermoneyindia/comments/1lyzkrf/beermoney_websites_in_india_megathread/" id="96">
-        <title>Beermoney Websites in India Megathread!! : r/beermoneyindia</title>
-      </bookmark>
-      <bookmark href="https://www.dscout.com/participate-in-research-studies" id="97">
-        <title>Join Dscout For Paid Surveys &amp; Product Testing Opportunities</title>
-      </bookmark>
-      <bookmark href="https://www.usertesting.com/get-paid-to-test" id="98">
-        <title>Get Paid to Test | Make Money Online | Side Hustle Ideas</title>
-      </bookmark>
-      <bookmark href="https://www.userinterviews.com/participants/signup" id="99">
-        <title>Sign up | User Interviews</title>
-      </bookmark>
-      <bookmark href="https://www.neevo.ai/" id="100">
-        <title>Neevo | Get paid to shape the future!</title>
-      </bookmark>
-      <bookmark href="https://dashboard.pulselabs.ai/panelist/dashboard" id="101">
-        <title>Pulse Labs</title>
-      </bookmark>
-      <bookmark href="https://www.respondent.io/become-a-participant" id="102">
-        <title>Get paid to participate in surveys, focus groups, and interviews | Respondent</title>
-      </bookmark>
-      <bookmark href="https://account.yougov.com/in-en/join/rewards" id="103">
-        <title>YouGov - India</title>
-      </bookmark>
-      <bookmark href="https://serpclix.com/clickers/" id="104">
-        <title>Earn Money as a Clicker</title>
-      </bookmark>
-      <bookmark href="https://www.heycash.com/en-in/contact" id="105">
-        <title>Contact HeyCash ｜ We’re Here to Help You Earn More</title>
-      </bookmark>
-      <bookmark href="https://grabpoints.com/" id="146">
-        <title>Earn Free Gift Cards and Cash Online - Grabpoints</title>
-      </bookmark>
-      <bookmark href="https://test.io/company/become-a-tester" id="147">
-        <title>Become a Tester | Test IO</title>
-      </bookmark>
-      <bookmark href="https://testerwork.com/" id="148">
-        <title>Homepage - TesterWork</title>
-      </bookmark>
-      <bookmark href="https://app.trymata.com/tester/signup" id="149">
-        <title>Get Paid To Test Websites &amp; Apps | Trymata Digital Experience Insights</title>
-      </bookmark>
-      <bookmark href="https://www.google.com/search?q=get+paid+to+test&amp;sca_esv=aa86132b60f0534c&amp;sxsrf=ANbL-n7lhE_zwq_GuzL2Ub0V88NfUb1d6A:1772021673078&amp;ei=qeeeac3ABLyz5OUP85-b8QU&amp;start=10&amp;sa=N&amp;sstk=Af77f_este86K-i6PQplw02cJWx1g1rIZp3LO0hG0PXw5kxvM0qApEczVLm2jLnTIYoIpQdvR25k8ANslf4RxhHHdwXRUKBMkmKGUg&amp;ved=2ahUKEwiNue6Sz_SSAxW8GbkGHfPPJl4Q8tMDegQIDRAE&amp;biw=2040&amp;bih=1034&amp;dpr=1.25" id="150">
-        <title>get paid to test - Google Search</title>
-      </bookmark>
-      <bookmark href="https://userq.com/become-a-tester/" id="151">
-        <title>Become a Tester and Earn Money for Your Thoughts | UserQ</title>
-      </bookmark>
-      <bookmark href="https://app.playtestcloud.com/signup" id="152">
-        <title>Playtester Signup: Become a Playtester - PlaytestCloud</title>
-      </bookmark>
-      <bookmark href="https://www.usersense.com/user-tester" id="153">
-        <title>Earn Money Testing Websites and Apps | User Sense</title>
-      </bookmark>
-      <bookmark href="https://www.testingtime.com/en/become-a-paid-testuser/" id="154">
-        <title>Become a Paid Test User and Earn Money</title>
-      </bookmark>
-      <bookmark href="https://www.userlytics.com/user-experience-research/paid-ux-testing/" id="155">
-        <title>Make Money Online by Becoming a Paid Test User</title>
-      </bookmark>
-      <bookmark href="https://www.userfeel.com/tester-faq" id="170">
-        <title>Tester Training &amp; Frequently Asked Questions - Userfeel.com</title>
-      </bookmark>
-      <bookmark href="https://www.digivante.com/crowdtesting-community/become-a-tester/" id="171">
-        <title>Become a crowd tester with Digivante</title>
-      </bookmark>
-    </folder>
-    <folder id="95">
-      <title>Signed Up</title>
-      <bookmark href="https://grabpoints.com/" id="106">
-        <title>Earn Free Gift Cards and Cash Online - Grabpoints</title>
-      </bookmark>
-      <bookmark href="https://app.trymata.com/tester/signup" id="107">
-        <title>Get Paid To Test Websites &amp; Apps | Trymata Digital Experience Insights</title>
-      </bookmark>
-      <bookmark href="https://testerwork.com/" id="108">
-        <title>Homepage - TesterWork</title>
-      </bookmark>
-      <bookmark href="https://test.io/company/become-a-tester" id="109">
-        <title>Cloudflare: WAF block</title>
-      </bookmark>
-      <bookmark href="https://www.dscout.com/participate-in-research-studies" id="110">
-        <title>Join Dscout For Paid Surveys &amp; Product Testing Opportunities</title>
-      </bookmark>
-      <bookmark href="https://www.usertesting.com/get-paid-to-test" id="111">
-        <title>Get Paid to Test | Make Money Online | Side Hustle Ideas</title>
-      </bookmark>
-      <bookmark href="https://www.respondent.io/become-a-participant/" id="112">
-        <title>Get Paid to Participate in Research Studies | Respondent</title>
-      </bookmark>
-    </folder>
-  </folder>
 </folder>
 <folder id="4">
   <title>Mobile Bookmarks</title>
+</folder>
+<folder id="174">
+  <title>Workspaces</title>
+  <folder id="180">
+    <title>Kali</title>
+  </folder>
 </folder>
 </xbel>
