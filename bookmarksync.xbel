@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :404: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :405: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="181">Bookmarks Menu</H3>
 <DL><p>
@@ -270,6 +270,7 @@
     <DT><A HREF="https://www.anthropic.com/" TAGS="" ID="401">Home \ Anthropic</A>
     <DT><A HREF="https://chatgpt.com/" TAGS="" ID="403">ChatGPT</A>
     <DT><A HREF="https://openrouter.ai/chat" TAGS="" ID="404">Al Test</A>
+    <DT><A HREF="https://claude.ai/new" TAGS="" ID="405">Claude</A>
   </DL><p>
 </DL><p>
 <DT><H3 ID="183">Other Bookmarks</H3>
