@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :406: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :415: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="181">Bookmarks Menu</H3>
 <DL><p>
@@ -248,6 +248,19 @@
   </DL><p>
   <DT><H3 ID="367">Articles</H3>
   <DL><p>
+  </DL><p>
+  <DT><H3 ID="407">Prompting 101</H3>
+  <DL><p>
+    <DT><A HREF="https://www.promptingguide.ai/" TAGS="" ID="408">Prompt Engineering Guide | Prompt Engineering Guide</A>
+    <DT><A HREF="https://www.reddit.com/r/PromptEngineering/comments/120fyp1/useful_links_for_getting_started_with_prompt/" TAGS="" ID="409">Useful links for getting started with Prompt Engineering : r/PromptEngineering</A>
+    <DT><A HREF="https://cloud.google.com/discover/what-is-prompt-engineering" TAGS="" ID="410">Prompt Engineering for AI Guide | Google Cloud</A>
+    <DT><H3 ID="411">Book Publishers</H3>
+    <DL><p>
+      <DT><A HREF="https://nostarch.com/" TAGS="" ID="413">No Starch Press | &#34;The finest in geek entertainment&#34;</A>
+      <DT><A HREF="https://www.packtpub.com/en-in/security/concept/cybersecurity" TAGS="" ID="414">Security | Packt</A>
+      <DT><A HREF="https://www.sap-press.com/rheinwerk-computing/security/" TAGS="" ID="415"> Rheinwerk Computing</A>
+    </DL><p>
+    <DT><A HREF="https://www.tradingview.com/chart/Nnid9sEX/?symbol=OANDA%3AXAUUSD" TAGS="" ID="412">XAUUSD 4,386.795 ▲ +0.82% Unnamed</A>
   </DL><p>
   <DT><A HREF="https://www.cis.mpg.de/internships/" TAGS="" ID="387">Internships | cis.mpg.de</A>
   <DT><H3 ID="388">SecondBrain</H3>
